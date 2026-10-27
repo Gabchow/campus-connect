@@ -3,6 +3,8 @@
 
 ## Estimated Expenses
 
+The budget is planned for approximately 50 students attending Campus Connect. The estimated expenses will cover food, activities, prizes, and other materials needed for the event.
+
 | Item | Estimated Cost (SGD) |
 |---|---:|
 | Food and Drinks | $150 |
@@ -12,16 +14,27 @@
 | Printing Materials | $20 |
 | **Total** | **$400** |
 
+## Budget Breakdown
+
+- Food and Drinks: Provide light snacks and drinks for 50 students.
+- Decorations: Purchase simple decorations for the event venue.
+- Games and Activities: Prepare materials for group games and activities.
+- Prizes: Prepare small prizes for students who participate in games.
+- Printing Materials: Print posters, signs, and event information.
+
 ## Budget Management
 
 - Set a maximum event budget of $500.
-- Reserve $100 for unexpected expenses.
-- Compare prices before buying materials.
-- Keep track of all purchases and receipts.
+- Estimated spending is $400, leaving $100 for unexpected expenses.
+- The estimated cost is $8 per student, excluding the reserved amount.
+- Compare prices before purchasing materials.
+- Keep receipts and record all expenses.
 - Avoid unnecessary spending to stay within budget.
 
 ## Assumptions and Questions
 
-- Assume approximately 50 students will attend.
+- Approximately 50 students are expected to attend.
+- The school will provide the event venue for free.
+- All expenses are estimates and may change depending on the final event plans.
 - Will the school provide funding for the event?
-- Can the school provide a venue for free?
+- Are there any additional materials needed for the activities?
