@@ -7,6 +7,7 @@
 - Campus discovery challenge.
 - Sharing session.
 - Closing and feedback.
+- LOLOLOLOL
 
 ## Questions for discussion
 
