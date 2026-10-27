@@ -2,13 +2,13 @@
 
 ## Proposed activities
 
-- Data of items.
-- Filter items.
+- Data of items, recording of dates.
+- Breaking down of data and create a separate sheet.
 - Arrival of stocks.
-- Quality check.
+- Quality and quantity inspectiono.
 - Closing and feedback.
 
 ## Questions for discussion
 
-- How many stocks?
-- What stocks do we have?
+- List of items needed?
+- Feedbacks for supplier?
