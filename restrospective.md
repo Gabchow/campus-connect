@@ -13,3 +13,16 @@ we resolved the merge conflict in the event.md, we decided to keep the content t
 
 One Git skill you would like to practise further:
 probably merge
+
+
+Chong Boon:
+Switching and committing and pushing.
+
+
+How to do a proper pull request.
+
+knowing to do in the correct branch before seeing changes.
+
+switching to the correct branch and pushing the correct branch.
+
+using of pull request.
