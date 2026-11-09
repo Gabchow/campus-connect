@@ -44,3 +44,20 @@ I practised resolving a merge conflict in event.md. I removed the conflicting ch
 
 One Git skill you would like to practise further:
 I would like to practise resolving merge conflicts and merging branches because I am still getting used to the process.
+
+
+Jerome:
+One Git task you can now complete independently:
+Merging pull requests
+
+One useful review comment you gave or received:
+"This is very good, but could you add more to the timeline to make it more clear?"
+
+One improvement made after feedback:
+Updated my programme file based on the feedback given
+
+One conflict you resolved and how you decided the final content:
+I resolved a merge conflict, in the file event.md. I decided to combine my work with the previous person's work content instead of overriding one of ours.
+
+One Git skill you would like to practise further:
+Resolving merge conflicts
